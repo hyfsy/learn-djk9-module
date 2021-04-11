@@ -1,2 +1,2 @@
 
-详细查看learn.jdk9.module下的module-info.java
+详细查看learn.jdk9.parent下的module-info.java
